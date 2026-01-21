@@ -1,0 +1,18 @@
+StudentID,Name,Age,Class,Marks,Attendance,City,Performance,Attendance_Status
+101,Ballu,21,12,85,92,Delhi,Good,OK
+102,Aman,22,12,78,88,Mumbai,Good,OK
+103,Riya,20,11,92,95,Pune,Excellent,OK
+104,Neha,23,12,88,90,Bangalore,Good,OK
+105,Rahul,21,11,70,80,Delhi,Needs Improvement,OK
+106,Priya,20,11,65,75,Jaipur,Needs Improvement,OK
+107,Karan,22,12,90,96,Chandigarh,Excellent,OK
+108,Sneha,21,12,55,70,Indore,Needs Improvement,Low Attendance
+109,Arjun,23,12,73,85,Ahmedabad,Needs Improvement,OK
+110,Simran,20,11,81,89,Ludhiana,Good,OK
+111,Varun,22,12,60,78,Noida,Needs Improvement,OK
+112,Pooja,21,11,95,98,Bhopal,Excellent,OK
+113,Ankit,23,12,68,82,Kanpur,Needs Improvement,OK
+114,Nisha,20,11,88,91,Patna,Good,OK
+115,Rohit,22,12,74,86,Faridabad,Needs Improvement,OK
+116,Divya,21,11,83,87,Agra,Good,OK
+117,Sahil,23,12,77,80,Gurgaon   ,Needs Improvement,OK
